@@ -5,3 +5,4 @@ DEPLOY ON VERCEL
 3. Redeploy. Test with a Paystack test key before going live.
 Prices, shipping fees and the foreign-sole surcharge live in products.json.
 Local testing needs `vercel dev` (the /api payment routes do not run from plain files).
+4. Make sure to push from Github
